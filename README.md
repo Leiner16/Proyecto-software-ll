@@ -15,3 +15,9 @@ METODOLOGÍA
 La metodología que se implementará en nuestro proyecto es scrum pero de forma parcial realizando algunas modificaciones para acomodarlo a nuestro modo de trabajo, las reuniones que originalmente se hacen diariamente se pasaron a semanales y los sprint que son las entregas a corto plazo se reemplazó por una entrega final donde está contemplado todo, pero sin dejar de las tareas semanales pero sin realizarlo como entrega pero si tenerse apuntado como realizado.
 
 LA ASIGNACIÓN DE ROLES
+
+
+LEINER LIBARDO MENDOZA RODRIGUEZ - Programador-Frontend
+GABRIEL ELKIN MARTINEZ AMORTEGUI - Programador-Frontend
+HERMES DUVAN MARTINEZ ZAMBRANO - Programador-Frontend
+SANTIAGO MARTINEZ DIAZ - Programador-Frontend
